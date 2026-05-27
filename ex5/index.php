@@ -13,6 +13,6 @@ $semaine = $_GET['week'];
 </head>
 <body>
     <a href="index.php?week=12">Page</a>
-    <p>Nous sommes la semane : <?= $semaine ?></p>
+    <p>Nous sommes la semaine : <?= $semaine ?></p>
 </body>
 </html>
